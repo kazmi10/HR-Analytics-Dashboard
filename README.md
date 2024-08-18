@@ -11,6 +11,8 @@ This project features an interactive HR Analytics Dashboard created in Tableau, 
 ## Technologies Used:
 - Tableau for data visualization.
 - Excel for data preparation.
+  ![image](https://github.com/user-attachments/assets/54dce265-e550-43c3-8df5-d4983e2dc255)
+
 
 ## How to Access:
 [[Provide any instructions if the dashboard can be accessed online, or note that it can be viewed by downloading the files.]](https://public.tableau.com/views/HRANALYTICSDASHBOARD_17240189630140/HRAnalyticsDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
